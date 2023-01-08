@@ -1,0 +1,22 @@
+{
+  "name": "create-mfe-app",
+  "version": "1.0.0",
+  "description": "Starter template for micro-frontend react app",
+  "main": "index.js",
+  "bin": {
+    "create-mfe-app": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekdipu/create-mfe-app.git"
+  },
+  "author": "Abhishek Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhishekdipu/create-mfe-app/issues"
+  },
+  "homepage": "https://github.com/abhishekdipu/create-mfe-app#readme"
+}
